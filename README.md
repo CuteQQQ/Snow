@@ -15,4 +15,4 @@ Replit Link of Python version:
 
 Replit Link of Node.js version:
 
-[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snownode.js?v=1)
+[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snownodejs?v=1)
