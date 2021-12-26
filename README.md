@@ -2,12 +2,15 @@
 
 (o'w'o)
 
-[![](https://github.com/CuteQQQ/Snow/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ/Snow)
 
+# Link
 
-## Link
+## Python version
 
-Replit Link:
+Replit Link of Python version:
 
+[![](https://github.com/CuteQQQ/Snow/blob/main/mona-whisper.gif?raw=true)](https://replit.com/@CuteQQQ/Snow(python)?v=1)
 
-[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snow?v=1)
+## Node.js version
+
+[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snow(node.js)?v=1)
