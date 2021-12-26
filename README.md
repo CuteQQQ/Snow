@@ -9,8 +9,10 @@
 
 Replit Link of Python version:
 
-[![](https://github.com/CuteQQQ/Snow/blob/main/mona-whisper.gif?raw=true)](https://replit.com/@CuteQQQ/Snow(python)?v=1)
+[![](https://github.com/CuteQQQ/Snow/blob/main/mona-whisper.gif?raw=true)](https://replit.com/@CuteQQQ/Snowpython?v=1)
 
 ## Node.js version
 
-[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snow(node.js)?v=1)
+Replit Link of Node.js version:
+
+[![](https://github.com/CuteQQQ/Snow/blob/main/replit_icon.png?raw=true)](https://replit.com/@CuteQQQ/Snownode.js?v=1)
