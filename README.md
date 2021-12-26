@@ -1,7 +1,6 @@
 # Snow
-OWO
 
-
+(o'w'o)
 
 [![](https://github.com/CuteQQQ/Snow/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ/Snow)
 
